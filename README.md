@@ -1,5 +1,5 @@
   - ANASAYFA: index.md
-  - AĞ GÜVENLİĞİ POLİTİKALARI?: agguvenligipolitikalarinedir.md
+  - AĞ GÜVENLİĞİ POLİTİKALARI?: [mth-network-security-homework](/docs/agguvenligipolitikalarinedir.md)
   - TEMEL AĞ GÜVENLİĞİ POLİTİKALARI : 
     - KABUL EDİLEBİLİR KULLANIM POLİTİKALARI: kabuledilebilir.md
     - ERİŞİM POLİTİKALARI: erisim.md

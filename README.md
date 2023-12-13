@@ -1,13 +1,13 @@
   - ANASAYFA: index.md
-  - AĞ GÜVENLİĞİ POLİTİKALARI?: [mth-network-security-homework](/docs/agguvenligipolitikalarinedir.md)
+  - AĞ GÜVENLİĞİ POLİTİKALARI?: (/docs/agguvenligipolitikalarinedir.md)
   - TEMEL AĞ GÜVENLİĞİ POLİTİKALARI : 
-    - KABUL EDİLEBİLİR KULLANIM POLİTİKALARI: kabuledilebilir.md
-    - ERİŞİM POLİTİKALARI: erisim.md
-    - AĞ GÜVENLİK DUVARI POLİTİKASI: firewall.md
-    - İNTERNET POLİTİKASI: internet.md
-    - ŞİFRE YÖNETİMİ POLİTİKASI : sifreyonetimi.md
-    - FİZİKSEL GÜVENLİK POLİTİKASI: fizikselgüvenlik.md
-    - SOSYAL MÜHENDİSLİK POLİTİKASI : sosyal.md
-  - GÜVENLİK POLİTİKALARININ UYGULANMASI : politikauyg.md
-  - SONUÇ : sonuc.md
-  - KAYNAKCA : kaynakca.md
+    - KABUL EDİLEBİLİR KULLANIM POLİTİKALARI: (/docs/kabuledilebilir.md)
+    - ERİŞİM POLİTİKALARI: (/docs/erisim.md)
+    - AĞ GÜVENLİK DUVARI POLİTİKASI: (/docs/firewall.md)
+    - İNTERNET POLİTİKASI: (/docs/internet.md)
+    - ŞİFRE YÖNETİMİ POLİTİKASI : (/docs/sifreyonetimi.md)
+    - FİZİKSEL GÜVENLİK POLİTİKASI: (/docs/fizikselgüvenlik.md)
+    - SOSYAL MÜHENDİSLİK POLİTİKASI : (/docs/sosyal.md)
+  - GÜVENLİK POLİTİKALARININ UYGULANMASI : (/docs/politikauyg.md)
+  - SONUÇ : (/docs/sonuc.md)
+  - KAYNAKCA : (/docs/kaynakca.md)

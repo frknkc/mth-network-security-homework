@@ -1,0 +1,16 @@
+site_name: Furkan KOÇ
+
+nav:
+  - ANASAYFA: index.md
+  - AĞ GÜVENLİĞİ POLİTİKALARI?: agguvenligipolitikalarinedir.md
+  - TEMEL AĞ GÜVENLİĞİ POLİTİKALARI : 
+    - KABUL EDİLEBİLİR KULLANIM POLİTİKALARI: kabuledilebilir.md
+    - ERİŞİM POLİTİKALARI: erisim.md
+    - AĞ GÜVENLİK DUVARI POLİTİKASI: firewall.md
+    - İNTERNET POLİTİKASI: internet.md
+    - ŞİFRE YÖNETİMİ POLİTİKASI : sifreyonetimi.md
+    - FİZİKSEL GÜVENLİK POLİTİKASI: fizikselgüvenlik.md
+    - SOSYAL MÜHENDİSLİK POLİTİKASI : sosyal.md
+  - GÜVENLİK POLİTİKALARININ UYGULANMASI : politikauyg.md
+  - SONUÇ : sonuc.md
+  - KAYNAKCA : kaynakca.md

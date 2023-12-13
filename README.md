@@ -1,9 +1,10 @@
-T.C.
-ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ
+T.C. ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ
 MTH 151015308-Açık Kaynak Araçlar ile Ağ Güvenliği
 
 Adı ve Soyadı: Furkan Koç
+
 Öğrenci Numarası: 152120201032
+
 Mail:00kocfurkan@gmail.com
 
   - AĞ GÜVENLİĞİ POLİTİKALARI?: [👆](/docs/agguvenligipolitikalarinedir.md)
